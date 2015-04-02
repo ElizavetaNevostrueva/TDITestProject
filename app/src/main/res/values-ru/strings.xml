@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TDITestProject</string>
+
+    <string name="first_picture_btn_name">Первая</string>
+    <string name="second_picture_btn_name">Вторая</string>
+    <string name="third_picture_btn_name">Третья</string>
+
+</resources>
